@@ -4,7 +4,7 @@
 
 html {
     background-color: black;
-    font-family: 'Quicksand', sans-serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
     font-size: 0.95em;
     line-height: 1.5em;
 }
@@ -23,9 +23,8 @@ html {
 h1 {
     font-weight: normal;
     margin: auto;
-    background: olivedrab;
     line-height: 2.5em;
-    color: white;
+    color: black;
     text-align: center;
 }
 
@@ -95,7 +94,7 @@ footer {
     }
     
     picture.profile img {
-        width: 50%;
+        width: 25%;
         float: left;
         margin-right: 2em;
     }
@@ -115,8 +114,8 @@ footer {
     }
     
     picture.profile img {
-        width: 50%;
-        float: right;
+        width: 25%;
+        float: left;
         margin-left: 1em;
     }
 
